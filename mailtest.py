@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 #from smtplib import SMTP
 from smtplib import SMTP_SSL, SMTPAuthenticationError
